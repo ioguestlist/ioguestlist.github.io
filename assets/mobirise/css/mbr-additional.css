@@ -1334,11 +1334,6 @@ a {
 .cid-slERmfHaJQ .user_desk {
   color: #03a679;
 }
-.cid-sm8hsTjt0l {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
-  background-color: #ffffff;
-}
 .cid-slK2yJ78p3 .hidden {
   display: none;
 }
@@ -1389,6 +1384,11 @@ a {
   font-family: spartan, sans-serif;
   text-shadow: 0 0.04em 0.04em #FD4343;
   border: 0.1em sol#FD4343;
+}
+.cid-sm8hsTjt0l {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  background-color: #ffffff;
 }
 .cid-sm1vFVI6Ua {
   padding-top: 5rem;
